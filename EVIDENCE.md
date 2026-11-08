@@ -19,3 +19,7 @@ Run `python experiments/check_evidence.py` from the repository root for the head
 The companion dataset DOI is [10.5281/zenodo.23989888](https://doi.org/10.5281/zenodo.23989888). It was reserved for this dataset. The public DOI link becomes usable after the deposit is published.
 
 The later 14B reversal batch is in [reversal_14b.csv](evidence/reversal_14b.csv), with its [signed record](followups/reversal-record.json). Its columns follow the decision-round table. The first signed archive and reserved DOI refer to the initial subset.
+
+## 8 November evidence
+
+[Six numerical tables and their guide](evidence/2026-11-08/) cover the matched reversal, active-state naming, keep-or-change decisions, controller repair and identical-sentence probes. The archive identifies the exact source runs and preserves the initial edition separately.

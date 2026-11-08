@@ -10,7 +10,13 @@ Imagine Qwen writing a story about a winter forest. Between paragraphs an instru
 
 That difference opens up a deeper question. Qwen can learn to predict that the heading weakens a word's influence, then keep choosing as if the heading strengthened it. Under specific conditions, giving Qwen its own conclusion again at the point of choice changes what it does.
 
-## Three findings to start with
+## 8 November update
+
+The new experiments separate reading an active state, describing it, and using the description to choose. A trained reader picked up which state Qwen was carrying even when the prompt stayed the same. Reading whether the state was preferred proved less reliable. A matched reversal also found that 8B's written conclusions could update, qualifying the original result.
+
+[Illustrated study](https://pixedar.github.io/projects/self-awareness/internal-mirror/november-8.html) · [Full account](followups/2026-11-08/REPORT.md) · [Measurements](evidence/2026-11-08/) · [Signed edition](https://github.com/Pixedar/jspace-internal-mirror/tree/study-2026-11-08)
+
+## Three findings from the initial edition
 
 - **The “mine” label changes what gets through.** In a seven-part writing task, Qwen3-8B reused 36.8% of the preceding readout words when they were presented plainly, and 0.9% when they were described as its own workspace. Blocking attention to the heading reduced part of the effect in held-out tests. The label was supplied by the instrument.
 - **Predicting and choosing came apart.** With feedback, Qwen forecast the direction of the effect correctly and could state it. In three 8B batches, 27 of 36 runs mostly chose the better framing for a strong word in the second half when given their earlier conclusion at decision time. The matched history-only runs yielded 0 of 36. At 14B, the useful route in the tested batch was a fresh numerical forecast.

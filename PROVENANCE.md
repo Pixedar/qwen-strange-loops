@@ -16,3 +16,7 @@ Compare the published archive checksum with `deposit_archive.sha256` in the sign
 The companion OpenTimestamps receipt commits to the manifest digest through public calendars. The initial receipt is a calendar commitment. A Bitcoin attestation can be verified once the calendars have anchored it.
 
 The 14B reversal follow-up is identified by the separately signed `reversal-2026-11-05` tag and [follow-up record](followups/reversal-record.json). The initial DOI archive remains byte-for-byte the same.
+
+## 8 November 2026 edition
+
+The [signed edition tag](https://github.com/Pixedar/jspace-internal-mirror/tree/study-2026-11-08) and [signed source record](evidence/2026-11-08/source-records.json) identify the selected runs, exported tables and source hashes. The [separately versioned archive](https://github.com/Pixedar/jspace-internal-mirror/releases/download/study-2026-11-08/jspace-internal-mirror-measurements-2026-11-08.zip) is for review and deposit. Its checksum is recorded in the [publication record](followups/2026-11-08/PUBLICATION.json). The prior archive and its reserved DOI refer to the initial edition.

@@ -1,0 +1,28 @@
+{
+  "archive": {
+    "name": "jspace-internal-mirror-measurements-2026-11-08.zip",
+    "sha256": "944cd94189b089d7a07572a00c7a7885a75ebfc85413e43f1c1bf03b5d5d57e8"
+  },
+  "creator": "Wiktor Tomasik",
+  "edition": "2026-11-08",
+  "files": {
+    "evidence/2026-11-08/README.md": "7288f976bac1c41d1397c8d2cf398744b81b88f7bb8693ef692ebcc32faf12fd",
+    "evidence/2026-11-08/check.py": "f8aacce989491739d4b39fd5cec60db97f82e556d139776f4bf1c469b6489883",
+    "evidence/2026-11-08/controller_motion.csv": "8d1eeea64121cea1342db3bbf64df3ee763ef797c232c698456a1257e3186341",
+    "evidence/2026-11-08/identical_sentence_triads.csv": "674f861f38050eac5f81efa7b188626328e6ce031f05ed59cb14d56784232d9b",
+    "evidence/2026-11-08/matched_reversal.csv": "190c3ee76c795711df444c0e85e57832e322eece5f6f7c0fb908ab6fc5d1d89a",
+    "evidence/2026-11-08/source-records.json": "cb7dc00374af873366e5b83017c57058319346e3e2352cad103305b6703afc01",
+    "evidence/2026-11-08/source-records.json.sig": "20d8a8559c1c70351189e95b6ce53fd647e086f6b54024f202ef6ca5cf021d80",
+    "evidence/2026-11-08/state_name_choices.csv": "138ef56a7010eb8624d7a8c13c19c340c349df7d0c5a49cb6b4b1ba9810a3e61",
+    "evidence/2026-11-08/state_name_probes.csv": "baa21fd03688b75d366e8cb804c2019ec4632e6c59c9c20514ac283d04117376",
+    "evidence/2026-11-08/state_value_choices.csv": "4ba8e2fda2ba7a32e8293429f49f1b2de5918033aba72ce39cda9a55ea064879",
+    "figures/2026-11-08/controller-repair.svg": "7552ee72e89975739cfcadd12fe7c2323230ec4ad5fe11d5e50c5449cda9afed",
+    "figures/2026-11-08/report-rates.svg": "80313bfcc8c761071b343f6c14c1eb67d1317972bb5d39064146789e8bd6dfd0",
+    "followups/2026-11-08/REPORT.md": "cabf209e84102488a015ea51d9995af093c103997f8a47f19082287671e3dac0"
+  },
+  "generated_at_utc": "2026-11-08T21:40:21+00:00",
+  "initial_edition_tag": "study-2026-11-05",
+  "source": "https://github.com/Pixedar/jspace-internal-mirror",
+  "study": "https://pixedar.github.io/projects/self-awareness/internal-mirror/november-8.html",
+  "tag": "study-2026-11-08"
+}
