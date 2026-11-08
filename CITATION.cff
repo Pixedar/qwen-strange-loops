@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: Cite the signed source edition and the relevant run IDs when discussing a finding.
-title: J-space Internal Mirror
+title: Strange Loops in Qwen
 authors:
   - family-names: Tomasik
     given-names: Wiktor
-repository-code: https://github.com/Pixedar/jspace-internal-mirror
+repository-code: https://github.com/Pixedar/qwen-strange-loops
 url: https://pixedar.github.io/projects/self-awareness/internal-mirror/
 version: 2026.11.08
 license:

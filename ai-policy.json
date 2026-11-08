@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "creator": "Wiktor Tomasik",
-  "source": "https://github.com/Pixedar/jspace-internal-mirror",
-  "agent_instructions": "https://github.com/Pixedar/jspace-internal-mirror/blob/main/AGENTS.md",
+  "source": "https://github.com/Pixedar/qwen-strange-loops",
+  "agent_instructions": "https://github.com/Pixedar/qwen-strange-loops/blob/main/AGENTS.md",
   "preferences": {
     "search_indexing": "welcome",
     "attributed_explanation": "welcome",

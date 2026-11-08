@@ -23,3 +23,5 @@ The later 14B reversal batch is in [reversal_14b.csv](evidence/reversal_14b.csv)
 ## 8 November evidence
 
 [Six numerical tables and their guide](evidence/2026-11-08/) cover the matched reversal, active-state naming, keep-or-change decisions, controller repair and identical-sentence probes. The archive identifies the exact source runs and preserves the initial edition separately.
+
+The [readout insertion control](evidence/readout-insertion.md) has its own trial table and source hash. The [study](https://pixedar.github.io/projects/self-awareness/internal-mirror/) puts that result alongside the “strangers” reconstruction and the signed editions.
